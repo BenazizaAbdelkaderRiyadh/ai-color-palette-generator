@@ -1,0 +1,5 @@
+{
+  "name": "AI Color Palette Generator",
+  "description": "A modern AI color palette generator for designers. Enter a mood or description, and the AI generates a beautiful 5-color palette. You can copy colors, preview them on UI components, and save your favorites.",
+  "requestFramePermissions": []
+}
