@@ -2,7 +2,7 @@
 
 br-Palette AI is a modern, AI-powered color palette generator designed for creatives, designers, and developers. Simply describe a mood, theme, or concept, and the application leverages Google's Gemini API to generate a beautiful and harmonious 5-color palette, complete with semantic naming to guide your design process.
 
-![Screenshot](./assets/Screenshot1.png)
+![Screenshot](./assets/Screenshot2.png)
 
 
 ## ✨ Features
