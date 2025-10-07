@@ -79,15 +79,15 @@ Follow these instructions to get a copy of the project up and running on your lo
 /
 ├── public/
 ├── src/
-│   ├── components/      # Reusable React components (Header, Button, etc.)
-│   ├── hooks/           # Custom React hooks (useTheme, useLocalStorage)
-│   ├── services/        # API interaction logic (geminiService.ts)
-│   ├── utils/           # Helper functions (colorUtils.ts)
-│   ├── App.tsx          # Main application component
-│   ├── index.tsx        # Entry point for React
-│   └── types.ts         # TypeScript type definitions
+│   ├── components/     
+│   ├── hooks/          
+│   ├── services/        
+│   ├── utils/           
+│   ├── App.tsx          
+│   ├── index.tsx        
+│   └── types.ts        
 ├── .env                 # Environment variables (API Key)
-├── index.html           # Main HTML file
+├── index.html           
 └── README.md
 ```
 
